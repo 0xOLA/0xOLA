@@ -10,17 +10,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div class="home__see">
-               <br>
-               <a class="line" href="https://tryhackme.com/p/">Tryhackme</a><br>
-               <script src="https://tryhackme.com/badge/1847092"></script>
-               <br> <br>
-               <hr>
-               <a class="line" href="https://app.hackthebox.com/profile/623459">HackTheBox</a>            
-               <div class="badge-container">
-                  <a href="https://app.hackthebox.com/profile/">
-                     <img fetchpriority="high" src="https://www.hackthebox.eu/badge/image/623459" alt=" Hack The Box Badge"
-                        class="badge-image">
-                  </a>
-               </div>
-</div>
+<script src="https://tryhackme.com/badge/1847092"></script>
