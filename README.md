@@ -2,6 +2,14 @@
 
 
 
+## <samp> About Me: </samp>
+
+- Name: Ola
+- Age: 19
+- CTF Player: 5h4d0wbr0k3r5
+- Ethical Hacker/Pentester
+
+
 ## <samp> Badges: </samp>
 
 <details>
