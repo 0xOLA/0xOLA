@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+Welcome+to+My+github+%E2%98%BA%EF%B8%8F;19y%2Fo%2C+Security+Researcher%2C+CPTS%2C+CRTP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=462&lines=Hi%2C+Welcome+to+My+github+%E2%98%BA%EF%B8%8F;19y%2Fo%2C+Security+Researcher%2C+CPTS%2C+CRTP)](https://git.io/typing-svg)
 
 
 
