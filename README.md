@@ -7,7 +7,7 @@
 - Name: Ola
 - Age: 19
 - CTF Player: 5h4d0wbr0k3r5
-- Ethical Hacker/Pentester
+- Security Researcher/Red Teamer
 
 
 ## <samp> Badges: </samp>
@@ -30,3 +30,5 @@
   <br></br>
   </details>
 
+
+**_Just my backup github page, if you wanna know more about me, visit_** [https://github.com/sec-fortress](https://github.com/sec-fortress)
