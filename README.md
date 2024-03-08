@@ -7,8 +7,8 @@
 <details>
   <summary><b><samp>HackTheBox </samp></b></summary>
 
-  <a href="https://app.hackthebox.eu/profile/496941">
-<img src="http://www.hackthebox.eu/badge/image/496941" alt="Hack The Box">
+  <a href="https://app.hackthebox.eu/profile/623459">
+<img src="http://www.hackthebox.eu/badge/image/623459" alt="Hack The Box">
   </a>
   <br></br>
   </details>
