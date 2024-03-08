@@ -17,7 +17,7 @@
   <summary><samp><b>TryHackMe</b></samp></summary>
 
   <a href="https://tryhackme.com/p/secfortress">
-<script src="https://tryhackme.com/badge/1847092"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/secfortress.png" alt="TryHackMe">
   </a>
   <br></br>
   </details>
