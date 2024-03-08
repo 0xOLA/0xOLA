@@ -10,7 +10,17 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-0xOLA/0xOLA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div class="home__see">
+               <br>
+               <a class="line" href="https://tryhackme.com/p/">Tryhackme</a><br>
+               <script src="https://tryhackme.com/badge/1847092"></script>
+               <br> <br>
+               <hr>
+               <a class="line" href="https://app.hackthebox.com/profile/623459">HackTheBox</a>            
+               <div class="badge-container">
+                  <a href="https://app.hackthebox.com/profile/">
+                     <img fetchpriority="high" src="https://www.hackthebox.eu/badge/image/623459" alt=" Hack The Box Badge"
+                        class="badge-image">
+                  </a>
+               </div>
+</div>
