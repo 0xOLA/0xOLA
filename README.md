@@ -16,10 +16,9 @@
   <details>
   <summary><samp><b>TryHackMe</b></samp></summary>
 
-  <a href="https://tryhackme.com/p/v37r1x">
-<img src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/v37r1x.png" alt="TryHackMe">
+  <a href="https://tryhackme.com/p/secfortress">
+<script src="https://tryhackme.com/badge/1847092"></script>
   </a>
   <br></br>
   </details>
 
-<script src="https://tryhackme.com/badge/1847092"></script>
