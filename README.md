@@ -2,12 +2,24 @@
 
 
 
-- 👋 Hi, I’m @0xOLA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## <samp> Badges: </samp>
+
+<details>
+  <summary><b><samp>HackTheBox </samp></b></summary>
+
+  <a href="https://app.hackthebox.eu/profile/496941">
+<img src="http://www.hackthebox.eu/badge/image/496941" alt="Hack The Box">
+  </a>
+  <br></br>
+  </details>
+  
+  <details>
+  <summary><samp><b>TryHackMe</b></samp></summary>
+
+  <a href="https://tryhackme.com/p/v37r1x">
+<img src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/v37r1x.png" alt="TryHackMe">
+  </a>
+  <br></br>
+  </details>
 
 <script src="https://tryhackme.com/badge/1847092"></script>
